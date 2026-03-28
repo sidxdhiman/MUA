@@ -12,7 +12,8 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.anonymous.multiutilityapp"
     },
     "android": {
       "package": "com.anonymous.multiutilityapp",
@@ -46,6 +47,7 @@
       "eas": {
         "projectId": "e67f0833-515a-43a7-96b1-60d3542d6784"
       }
-    }
+    },
+    "owner": "lewintel"
   }
 }
