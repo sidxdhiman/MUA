@@ -1,4 +1,4 @@
-# DayStack (Multi-Utility Daily Assistant)
+# MUA (Multi-Utility Daily Assistant)
 
 DayStack is a comprehensive React Native + TypeScript application designed to be a personal daily assistant. It combines multiple utility modules into one smooth, modern, and cohesive interface.
 
